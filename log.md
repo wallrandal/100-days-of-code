@@ -27,3 +27,13 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Thoughts:** learned a bit about color theory. How rgb() and hsl() works in CSS, as well as padding and margin, position and float.
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+
+### R1D4: June 20, 2020
+
+**Today's Progress:** 23 points.
+
+**Thoughts:** finished the "Applied Visual Design" track. A lot of cool animations! Learned how to use gradient, rotation and @keyframes properly.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
