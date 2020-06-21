@@ -37,3 +37,13 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
+
+### R1D5: June 21, 2020
+
+**Today's Progress:** 22 points.
+
+**Thoughts:** finished the "Applied accessibility" track. Learned about WCAG and some good practices such as the right use of HTML tags and CSS.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+                                                                                             
