@@ -54,4 +54,12 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Thoughts:** Almost done with the first Certificate. I'm so proud of myself! I'm also doing the vue lessons I bought from udemy.
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+### R1D7: June 23, 2020
+
+**Today's Progress:** 28 points.
+
+**Thoughts:** Finally got my first certificate! I'm so proud of myself :)
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
                                                                                              
