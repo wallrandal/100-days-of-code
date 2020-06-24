@@ -55,6 +55,7 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
+
 ### R1D7: June 23, 2020
 
 **Today's Progress:** 28 points.
@@ -62,4 +63,15 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Thoughts:** Finally got my first certificate! I'm so proud of myself :)
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+
+### R1D8: June 24, 2020
+
+**Today's Progress:** 23 points.
+
+**Thoughts:** Started to learn Javascript and learned something new: escape sequences!
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+
                                                                                              
