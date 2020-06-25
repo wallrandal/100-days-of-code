@@ -74,4 +74,13 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
 
+
+### R1D9: June 25, 2020
+
+**Today's Progress:** 26 points.
+
+**Thoughts:** Still on Javascript basics. Learned shift() though. Could be useful.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
                                                                                              
