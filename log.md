@@ -84,11 +84,20 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
 
-### R1D10: June 25, 2020
+### R1D10: June 26, 2020
 
 **Today's Progress:** 21 points.
 
 **Thoughts:** Doing some Javascript exercises. Besides that, I'm also updating my portfolio on github.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+
+### R1D10: June 26, 2020
+
+**Today's Progress:** 7 points.
+
+**Thoughts:** Not feeling like studiyng today. Did the minimum. Worked on my personal portfolio also
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
                                                                                              
