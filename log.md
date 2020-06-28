@@ -93,11 +93,20 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
 
-### R1D10: June 26, 2020
+### R1D11: June 27, 2020
 
 **Today's Progress:** 7 points.
 
 **Thoughts:** Not feeling like studiyng today. Did the minimum. Worked on my personal portfolio also
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+
+### R1D12: June 28, 2020
+
+**Today's Progress:** 20 points.
+
+**Thoughts:** Today was a better day. Did 20 points and learned new things about accessing values in javascript objects.
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
                                                                                              
