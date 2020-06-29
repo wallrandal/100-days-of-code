@@ -109,4 +109,13 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Thoughts:** Today was a better day. Did 20 points and learned new things about accessing values in javascript objects.
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+
+### R1D13: June 29, 2020
+
+**Today's Progress:** 16 points.
+
+**Thoughts:** Started to learn ES6 syntax. Learned about const!
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
                                                                                              
