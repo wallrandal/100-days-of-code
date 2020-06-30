@@ -118,4 +118,14 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Thoughts:** Started to learn ES6 syntax. Learned about const!
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+
+### R1D14: June 29, 2020
+
+**Today's Progress:** 7 points.
+
+**Thoughts:** It was not much points but it was useful! Learned about rest function, spread operator and destructuring.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
                                                                                              
