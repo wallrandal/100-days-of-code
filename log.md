@@ -120,7 +120,7 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
 
-### R1D14: June 29, 2020
+### R1D14: June 30, 2020
 
 **Today's Progress:** 7 points.
 
@@ -128,4 +128,12 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
+
+### R1D15: July 1, 2020
+
+**Today's Progress:** 15 points.
+
+**Thoughts:** Learned about export default, fallout and getters/setters.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
                                                                                              
