@@ -136,4 +136,13 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Thoughts:** Finished the ES6 track. Learned about export default, fallout and getters/setters.
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+
+### R1D16: July 2, 2020
+
+**Today's Progress:** 17 points.
+
+**Thoughts:** It is nice to learn Regex. Definitely something I'm not good at.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
                                                                                              
