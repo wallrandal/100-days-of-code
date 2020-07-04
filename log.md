@@ -147,11 +147,20 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
 
-### R1D17: July 2, 2020
+### R1D17: July 3, 2020
 
 **Today's Progress:** 16 points.
 
 **Thoughts:** Finished the Regex section. Had to search for exercises outside the freeCodeCamp because this is a complex subject and I want to be good at it.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+
+### R1D18: July 4, 2020
+
+**Today's Progress:** 16 points.
+
+**Thoughts:** Debugging lessons are great! Well, I'm kinda pretty good at it already. I've done a lot of mistakes in my carrer lol.
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
