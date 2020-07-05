@@ -164,4 +164,14 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
+
+### R1D19: July , 2020
+
+**Today's Progress:** 17 points.
+
+**Thoughts:** Did the basic data structures lessons. Learned how to delete objects easily.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+
                                                                                              
