@@ -189,4 +189,12 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Thoughts:** Finished the algorithms and started OOP exercises.
 
-**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)                                                                                             
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)                                                                                           
+
+### R1D22: 8 July , 2020
+
+**Today's Progress:** 16 points.
+
+**Thoughts:** Finished the OOP exercises. Started the Functional Programming. Trying to get used to arrow functions.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)     
