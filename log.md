@@ -202,9 +202,18 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 ### R1D23: 9 July , 2020
 
-**Today's Progress:** 12 points.
+**Today's Progress:** 11 points.
 
 **Thoughts:** Learned how to use map() filter(), slice() and splice()
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
-                                                                                                  
+
+### R1D24: 10 July , 2020
+
+**Today's Progress:** 12 points.
+
+**Thoughts:** Used regex on join and split methods, and trained how to use reduce().
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+                                                                                                         
