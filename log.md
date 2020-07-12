@@ -225,4 +225,14 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Thoughts:** Only five points :((( those algorithm exercises are HARD.
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
-                                                                                                         
+
+
+### R1D25: 12 July , 2020
+
+**Today's Progress:** 4 points.
+
+**Thoughts:** My rythm definely got slower, because of the difficulty level. But I'm learning a lot!
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+                                                                                                                                                                                                         
