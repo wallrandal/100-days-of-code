@@ -235,4 +235,11 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
-                                                                                                                                                                                                         
+
+### R1D26: 13 July , 2020
+
+**Today's Progress:** 4 points.
+
+**Thoughts:** oh how I HATE math exercises.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)                                                                                                                                                                                                         
