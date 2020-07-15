@@ -250,4 +250,14 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Thoughts:** Finished all the math exercises.
 
-**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)    
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)   
+
+
+### R1D28: 15 July , 2020
+
+**Today's Progress:** 16 points.
+
+**Thoughts:** Started with bootstrap. I want to be good at it, so I'm taking my time
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+                                                                                            
