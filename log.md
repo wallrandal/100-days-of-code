@@ -227,7 +227,7 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
 
-### R1D25: 12 July , 2020
+### R1D26: 12 July , 2020
 
 **Today's Progress:** 4 points.
 
@@ -236,7 +236,7 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
 
-### R1D26: 13 July , 2020
+### R1D27: 13 July , 2020
 
 **Today's Progress:** 4 points.
 
@@ -244,7 +244,7 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)                                                                                                                                                                                                         
 
-### R1D27: 14 July , 2020
+### R1D28: 14 July , 2020
 
 **Today's Progress:** 13 points.
 
@@ -253,11 +253,19 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)   
 
 
-### R1D28: 15 July , 2020
+### R1D29: 15 July , 2020
 
 **Today's Progress:** 16 points.
 
 **Thoughts:** Started with bootstrap. I want to be good at it, so I'm taking my time
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
-                                                                                            
+              
+
+### R1D30: 15 July , 2020
+
+**Today's Progress:** 14 points.
+
+**Thoughts:** Finished with bootstrap. There weren't a lot o exercises.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)                                                                              
