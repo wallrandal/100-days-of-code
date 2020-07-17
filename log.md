@@ -262,10 +262,17 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
               
 
-### R1D30: 15 July , 2020
+### R1D30: 16 July , 2020
 
 **Today's Progress:** 14 points.
 
 **Thoughts:** Finished with bootstrap. There weren't a lot o exercises.
 
-**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)                                                                              
+
+### R1D31: 17 July , 2020
+
+**Today's Progress:** 18 points.
+
+**Thoughts:** Finished with JQuery. I love me some JJ.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)     
