@@ -276,3 +276,13 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Thoughts:** Finished with JQuery. I love me some JJ.
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)     
+
+
+### R1D32: 18 July , 2020
+
+**Today's Progress:** 13 points.
+
+**Thoughts:** Started learning JSX!
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+                                                                                          
