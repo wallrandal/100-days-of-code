@@ -285,4 +285,14 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Thoughts:** Started learning JSX!
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+
+### R1D33: 19 July , 2020
+
+**Today's Progress:** 14 points.
+
+**Thoughts:** JSX is helping me learn a lot about this react syntax. Different yet the same from vuejs.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
                                                                                           
