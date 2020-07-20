@@ -295,4 +295,14 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
+
+### R1D34: 20 July , 2020
+
+**Today's Progress:** 8 points.
+
+**Thoughts:** Finally diving into React seas. I'm loving it!
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+
                                                                                           
