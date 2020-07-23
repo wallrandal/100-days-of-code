@@ -323,4 +323,13 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
 
+### R1D37: 23 July , 2020
+
+**Today's Progress:** 9 points.
+
+**Thoughts:** Learning some magical rendering tips in React.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+
                                                                                           
