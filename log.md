@@ -358,5 +358,15 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
+
+
+### R1D41: 26 July , 2020
+
+**Today's Progress:** 9 points.
+
+**Thoughts:** Finishing front end libraries.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
                                                                                           
                                                                        
