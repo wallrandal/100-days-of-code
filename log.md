@@ -379,12 +379,11 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
 
-
 ### R1D43: 29 July , 2020
 
 **Today's Progress:** 1 point.
 
-**Thoughts:** Did the third excercises from the next certificate.
+**Thoughts:** Did the third excercise from the next certificate.
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
@@ -393,7 +392,16 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Today's Progress:** 1 point.
 
-**Thoughts:** Did the fourth excercises from the next certificate.
+**Thoughts:** Did the fourth excercise from the next certificate.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+
+### R1D45: 31 July , 2020
+
+**Today's Progress:** 1 point.
+
+**Thoughts:** Did the fifth excercise and got the certificate! Finally!
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
