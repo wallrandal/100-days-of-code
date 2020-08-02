@@ -410,7 +410,16 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Today's Progress:** 8 points.
 
-**Thoughts:** Started lLearning D3 JS! Never heard of it before.
+**Thoughts:** Started learning D3 JS! Never heard of it before.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+
+### R1D47: 02 August , 2020
+
+**Today's Progress:** 6 points.
+
+**Thoughts:** Learning D3 JS with SVGs.
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
                                                                                                                                                                 
