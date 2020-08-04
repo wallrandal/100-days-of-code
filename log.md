@@ -431,6 +431,15 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Thoughts:** Learning how to stylize D3 graphics.
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+
+### R1D49: 04 August , 2020
+
+**Today's Progress:** 4 points.
+
+**Thoughts:** Playing with D3 graphics.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
                                                                                                                                                                 
                                                                                                                                                                                    
                                                                        
