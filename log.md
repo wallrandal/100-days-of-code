@@ -440,6 +440,15 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Thoughts:** Playing with D3 graphics.
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
-                                                                                                                                                                
+                                                                                                   
+
+### R1D50: 05 August , 2020
+
+**Today's Progress:** 6 points.
+
+**Thoughts:** Started with JSON API yey!!
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+                                                                                                   
                                                                                                                                                                                    
                                                                        
