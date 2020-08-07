@@ -458,6 +458,15 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Thoughts:** Finished with JSON API yey!!
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
-                                                                                                   
+                                                                                        
+                                                                                              
+### R1D52: 07 August , 2020
+
+**Today's Progress:** 1 point.
+
+**Thoughts:** Done first project
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+                                                                                              
                                                                                                                                                                                    
                                                                        
