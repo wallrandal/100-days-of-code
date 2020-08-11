@@ -476,5 +476,14 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Thoughts:** Done second project
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+                                     
+### R1D54: 10 August , 2020
+
+**Today's Progress:** 1 point.
+
+**Thoughts:** That's my first strike, sadly.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
                                                                                                                                                                                    
-                                                                       
+                                                                                                                                    
