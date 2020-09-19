@@ -503,3 +503,12 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Thoughts:** Studying node and express on glitch!. 
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+
+### R1D57: 19 September , 2020
+
+**Today's Progress:** 7 points.
+
+**Thoughts:** After a month, got back to the studies. Quarantine is a bitch
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
