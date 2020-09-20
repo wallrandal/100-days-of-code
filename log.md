@@ -512,3 +512,13 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Thoughts:** After a month, got back to the studies. Quarantine is a bitch
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+
+### R1D58: 20 September , 2020
+
+**Today's Progress:** 5 points.
+
+**Thoughts:** Studying node and mongoDB.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
