@@ -514,11 +514,11 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
 
-### R1D58: 20 September , 2020
+### R1D59: 21 September , 2020
 
-**Today's Progress:** 5 points.
+**Today's Progress:** 7 points.
 
-**Thoughts:** Studying node and mongoDB.
+**Thoughts:** Finished studying node and mongoDB.
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
