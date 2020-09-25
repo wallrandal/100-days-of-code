@@ -541,3 +541,12 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
+
+### R1D63: 24 September , 2020
+
+**Today's Progress:** 8 points.
+
+**Thoughts:** Still on chai. Looks like phpunit!
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
