@@ -551,12 +551,20 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
 
-
 ### R1D64: 25 September , 2020
 
 **Today's Progress:** 12 points.
 
 **Thoughts:** Finished studying chai.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+
+### R1D65: 26 September , 2020
+
+**Today's Progress:** 5 points.
+
+**Thoughts:** Learning about node passport and session.
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
