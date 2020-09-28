@@ -524,7 +524,7 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 
 
-### R1D61: 22 September , 2020
+### R1D61: 23 September , 2020
 
 **Today's Progress:** 1 point.
 
@@ -533,7 +533,7 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
 
-### R1D62: 23 September , 2020
+### R1D62: 24 September , 2020
 
 **Today's Progress:** 4 points.
 
@@ -542,7 +542,7 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
 
-### R1D63: 24 September , 2020
+### R1D63: 25 September , 2020
 
 **Today's Progress:** 8 points.
 
@@ -551,7 +551,7 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
 
-### R1D64: 25 September , 2020
+### R1D64: 26 September , 2020
 
 **Today's Progress:** 12 points.
 
@@ -560,11 +560,20 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
 
-### R1D65: 26 September , 2020
+### R1D65: 27 September , 2020
 
 **Today's Progress:** 5 points.
 
 **Thoughts:** Learning about node passport and session.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
+
+### R1D66: 28 September , 2020
+
+**Today's Progress:** 6 points.
+
+**Thoughts:** Learning more about authentication with passport.
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
