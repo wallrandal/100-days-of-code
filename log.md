@@ -660,3 +660,12 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
+
+### R1D76: 03 October , 2020
+
+**Today's Progress:** 02 lessons.
+
+**Thoughts:** Started working on my quiz portfolio. Working with vuex.
+
+**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+
