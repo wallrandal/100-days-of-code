@@ -651,7 +651,6 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
 
 
-
 ### R1D75: 07 October , 2020
 
 **Today's Progress:** 11 points.
@@ -667,7 +666,7 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Thoughts:** Started working on my quiz portfolio. Working with vuex.
 
-**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+**Link to work:** [Quiz](https://wallrandal.github.io/quiz/#/)
 
 
 ### R1D77: 09 October , 2020
@@ -676,7 +675,7 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Thoughts:** On quiz, did a filter and displayed my funds.
 
-**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+**Link to work:** [Quiz](https://wallrandal.github.io/quiz/#/)
 
 
 ### R1D78: 11 October , 2020
@@ -685,5 +684,5 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Thoughts:** Added relation to firebase, translated some words.
 
-**Link to work:** [My Freecodecamp Profile](https://www.freecodecamp.org/wallacerandal)
+**Link to work:** [Quiz](https://wallrandal.github.io/quiz/#/)
 
