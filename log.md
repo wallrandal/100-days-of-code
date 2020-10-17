@@ -714,11 +714,20 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Link to work:** [Quiz](https://wallrandal.github.io/quiz/#/)
 
 
-### R1D82: 15 October , 2020
+### R1D82: 16 October , 2020
 
 **Today's Progress:** 05 lessons.
 
 **Thoughts:** finished learning about axios
+
+**Link to work:** [Quiz](https://wallrandal.github.io/quiz/#/)
+
+
+### R1D83: 17 October , 2020
+
+**Today's Progress:** 03 lessons.
+
+**Thoughts:** Started adding an auth system to the project
 
 **Link to work:** [Quiz](https://wallrandal.github.io/quiz/#/)
 
