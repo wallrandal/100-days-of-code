@@ -749,3 +749,12 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Link to work:** [Quiz](https://wallrandal.github.io/quiz/#/)
 
+
+### R1D86: 20 October , 2020
+
+**Today's Progress:** 01 lesson.
+
+**Thoughts:** Fixed a login issue on my firebase authentication.
+
+**Link to work:** [Quiz](https://wallrandal.github.io/quiz/#/)
+
