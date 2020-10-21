@@ -758,3 +758,12 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Link to work:** [Quiz](https://wallrandal.github.io/quiz/#/)
 
+
+### R1D87: 21 October , 2020
+
+**Today's Progress:** 03 lesson.
+
+**Thoughts:** Improved on the UI, made a global login verification.
+
+**Link to work:** [Quiz](https://wallrandal.github.io/quiz/#/)
+
