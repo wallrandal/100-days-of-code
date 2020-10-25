@@ -768,12 +768,20 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 **Link to work:** [Quiz](https://wallrandal.github.io/quiz/#/)
 
 
-
 ### R1D88: 23 October , 2020
 
 **Today's Progress:** 0 lessons.
 
 **Thoughts:** Today I just fixed the master branch, that stopped working.
+
+**Link to work:** [Quiz](https://wallrandal.github.io/quiz/#/)
+
+
+### R1D89: 25 October , 2020
+
+**Today's Progress:** 0 lessons.
+
+**Thoughts:** Today I created an .env file and separated all the sensible variables
 
 **Link to work:** [Quiz](https://wallrandal.github.io/quiz/#/)
 
