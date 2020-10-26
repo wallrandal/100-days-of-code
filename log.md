@@ -785,3 +785,12 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Link to work:** [Quiz](https://wallrandal.github.io/quiz/#/)
 
+
+### R1D90: 26 October , 2020
+
+**Today's Progress:** 1 lesson.
+
+**Thoughts:** Today I made a logout method, mutator and action.
+
+**Link to work:** [Quiz](https://wallrandal.github.io/quiz/#/)
+
