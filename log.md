@@ -794,3 +794,12 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Link to work:** [Quiz](https://wallrandal.github.io/quiz/#/)
 
+
+### R1D91: 27 October , 2020
+
+**Today's Progress:** 4 lessons.
+
+**Thoughts:** Today I added autologin and autoLogout to my project.
+
+**Link to work:** [Quiz](https://wallrandal.github.io/quiz/#/)
+
