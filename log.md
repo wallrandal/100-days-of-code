@@ -821,3 +821,12 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Link to work:** [Quiz](https://wallrandal.github.io/quiz/#/)
 
+
+### R1D94: 30 October , 2020
+
+**Today's Progress:** 0 lessons.
+
+**Thoughts:** Still migrating to vue3. Worked on vue-router and vuex
+
+**Link to work:** [Quiz](https://wallrandal.github.io/quiz/#/)
+
