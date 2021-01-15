@@ -830,3 +830,12 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Link to work:** [Quiz](https://wallrandal.github.io/quiz/#/)
 
+
+### R1D95: 15 January , 2021
+
+**Today's Progress:** 25 lessons.
+
+**Thoughts:** Yes, I came back! Learning NodeJs and express framework;
+
+**Link to work:** not in github yet
+
