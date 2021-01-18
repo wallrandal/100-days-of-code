@@ -839,3 +839,11 @@ The log of my #100DaysOfCode challenge. Started on [June 17, Wednesday, 2020].
 
 **Link to work:** not in github yet
 
+
+### R1D96: 18 January , 2021
+
+**Today's Progress:** 0 lessons.
+
+**Thoughts:** Implemented chai and mocha to my nodejs project, im so proud of myself!
+
+**Link to work:** not in github yet
